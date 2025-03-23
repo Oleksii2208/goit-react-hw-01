@@ -1,0 +1,20 @@
+.friendsImg {
+  width: 100px;
+  margin-bottom: 20px;
+}
+
+.friendsName {
+  font-size: 32px;
+}
+
+.status {
+  font-size: 24px;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
